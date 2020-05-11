@@ -1,0 +1,4 @@
+How is the web different than the internet? In a way, the Internet is how you access the Web. The web in a collection of information and the internet is a collection of networks.
+Briefly describe how the internet works. The internet works through routers sending "packets" of information to other routers via a list of protocols/rules.
+What is a directory, and what is its relationship to files? a directory contains folders and documents that can be organized in a hierarchical maner.
+Why is using a VCS beneficial?
