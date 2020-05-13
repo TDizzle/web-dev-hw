@@ -1,0 +1,4 @@
+How is the web different than the internet? The web is the collection of information that you use the internet to gain access to.
+Briefly describe how the internet works. Internet is accessed by routers that are connected to internet cables in homes. The internet cables go to ISP's (Internet Service Providers) where packets of information are sent to their destination via sets of protocols.
+What is a directory, and what is its relationship to files? A directory is a way to organize files in a hierarchical manner.
+Why is using a VCS beneficial? Using a Version Control System like github is beneficial in keeping track of changes made to code and software overtime.
