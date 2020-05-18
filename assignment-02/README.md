@@ -2,7 +2,7 @@
 ## Tristan Lilly
 
 **This class is essential to the completion of my Media Arts degree.**
-*I love the idea of coding and want to learn the basics and understand more about computers. Maybe understand hacking scenes in movie :o*
+*I love the idea of coding and want to learn the basics and understand more about computers. Maybe understand hacking scenes in movies too :o*
 
 1. I have a better understanding of how the internet works and its distinction between "the web"
 2. I have learned about different types of txt editors and what applications are used to create websites.
