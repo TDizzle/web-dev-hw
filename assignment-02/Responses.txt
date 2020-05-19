@@ -1,0 +1,7 @@
+1. How does data travel on the internet? - Data is sorted into "Packets" theses packets are a jumble of the information that was sent. The packets will be sent to the intended location and then the data within the packet is organized into something that makes sense on your screen.
+
+2. Relationship between IP address and DNS? IP adddress (Internet Protocol) is a unique set of numbers given to a computer each time it accesses the internet. A DNS address (Domain Name Service) is something like a .com or .somethingorother that you can type for searching rather than typing in an IP address. DNS can be explained like creating a contact for your friends phone number.
+
+3. Cookie? A cookie can be described as a breadcrumb trail. It allows websites to remember your preferences as well as things like time you visited the website, links you clicked on and much more.
+
+4. 3 Basic parts of a URL: Protocol, Domain and Path. Protocol is the set of rules used when accessing the site, could be http, https, ftp, pop and others. Domain name is the actual name of the website the DNS. The Path is where you are in the website's directory of files.
