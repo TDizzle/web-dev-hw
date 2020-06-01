@@ -1,0 +1,3 @@
+Forms on the internet: I believe the Google's homepage includes a form, which is the search bar. You submit whatever you typed into the search bar and then millions of related websites pop up.
+
+Text, selection and button input: Text inputs can be used for passwords, a "plain text" description of something, a placeholder. Selection types are visual elements like "buttons" that you select. There are radio buttons, check box and select or dropdown box. Different types of buttons are used for different things. There are submit, upload and image buttons. The difference between upload and submit buttons are that upload opens something like a file, the submit button is used for sending information in a form to the server. 
