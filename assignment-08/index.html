@@ -11,60 +11,70 @@
       body {
   background-color: #00CDFF
 ;
-  text-align: left;
   }
   .container-1 {
     background-color: #FF3200
-;
+    ;
     width: 600px;
     margin: auto;
     padding: 20px;
     border: 1px solid black;
   }
-      ol {
-        background-color: #00CDFF
-;
-        border: 1px solid black
+    border: 1px solid black
       }
-      .container {
-      background-color: #FF3200
-      ;
-      width: 600px;
-      margin: auto;
-      padding: 20px;
-      border: 1px solid black;
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%
+      }
+      nav {
+        background-color: lightgray;
+        text-align: center;
       }
     </style>
 
   </head>
 
-  <body>
-    <div class="container">
+  <body style="font-family:Arial">
+    <div class="container-1" style="text-align: left">
       <h1>Honda CBR600RR Oil Change</h1>
-      <a href="about.html">About Page</a>
-      <br>
-      <a href="contact.html">Contact Page</a>
+      <nav>
+        <a href="about.html">About Page</a>
+        <a href="contact.html">Contact Page</a>
+      </nav>
     </div>
 
-    <div class="container-1">
+    <div class="container-1" style="font-family:Arial">
       <br>
       <ol>
-        <li>Drain oil from oil-pan drain bolt.</li>
+        <li>Loosen oil-pan drain bolt and Drain oil.</li>
           <br>
         <li>Rub new oil onto replacement oil filter O-ring and Replace oil filter. <i>(located behind exhaust headers)</i></li>
+          <br>
+          <img src="./images/oil-filter.jpg" alt="oil filter image" >
           <br>
         <li>Re-insert and tighten oil-pan drain bolt to <b>spec</b>.</li>
           <br>
         <li>Fill engine with <b>3 quarts</b> of specified oil type at oil fill hole. <i>(located on right side of motorcycle engine)</i></li>
           <br>
+          <img src="./images/oil-fill-hole.jpg" alt="oil fill hole">
+          <br>
         <li>Start motorcycle and let idle for roughly <b>20 seconds.</b></li>
           <br>
         <li>Check oil level by holding bike vertical, <b>while on flat gorund.</b> <i>(oil level glass located bottom of right side crankcase)</i></li>
           <br>
+          <img src="./images/oil-level-glass.jpg" alt="oil fill glass">
+          <br>
         <li><i><b>CLEAN UP AFTER YOURSELF</b></i></li>
       </ol>
-
     </div>
-
+<div style="text-align: center">
+  <p>Images property of <a href="https://www.partzilla.com/blog/honda-cbr-600-oil-change-how-to">Partzilla.com</a></p>
+</div>
+<div class="container-1">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p29yOW6aB8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
   </body>
 </html>
