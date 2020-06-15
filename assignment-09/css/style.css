@@ -1,0 +1,38 @@
+
+body {
+  background-color: darkgrey;
+  color: yellow;
+}
+
+.stripe {
+  width: 52%;
+  height: 35px;
+  padding-left: 10px;
+}
+
+.stripe-2 {
+  width: 52%;
+  height: 35px;
+  text-align: right;
+  padding-right: 10px;
+}
+
+#navy {
+  background-color: navy;
+  margin-left: 50%;
+  opacity: 50%;
+}
+
+#red {
+  background-color: red;
+  margin-left: 50%;
+  opacity: 50%;
+}
+
+#white {
+  background-color: white;
+  margin-right: 25%;
+  opacity: 50%;
+}
+
+/* 'Murica */'
