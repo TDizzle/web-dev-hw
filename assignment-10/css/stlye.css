@@ -1,0 +1,53 @@
+.text {
+color: maroon;
+background-color: aliceblue;
+font-family: 'Balsamiq Sans', cursive;
+font-size: 20px;
+padding: 10px;
+letter-spacing: 2px;
+font-weight: 700;
+
+}
+
+body {
+  color: aliceblue;
+  background-color: maroon;
+  text-align:center;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+p:first-of-type::first-letter {
+  font-family: 'Meddon', cursive;
+}
+
+h1 {
+  color: grey;
+}
+
+h3 {
+  color: grey;
+}
+
+a {
+  font-family: 'Balsamiq Sans', cursive;
+  color: aliceblue;
+  background-color: navy;
+  padding: 6px;
+}
+
+a:hover {
+  background-color: green;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:active {
+  color: yellow;
+  background color: grey;
+}
+
+.link {
+  text-align: left;
+}
